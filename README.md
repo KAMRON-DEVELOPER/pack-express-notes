@@ -3,12 +3,12 @@
 ## Initialize the project
 
 ```bash
-mkdir kpack-express-notes && cd kpack-express-notes
+mkdir pack-express-notes && cd pack-express-notes
 ```
 
 ```bash
-gh repo create kpack-express-notes --public
-git remote add origin https://github.com/KAMRON-DEVELOPER/kpack-express-notes.git
+gh repo create pack-express-notes --public
+git remote add origin https://github.com/KAMRON-DEVELOPER/pack-express-notes.git
 git branch -M master
 git push -u origin master
 ```

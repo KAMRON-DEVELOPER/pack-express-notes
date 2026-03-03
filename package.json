@@ -1,7 +1,7 @@
 {
-  "name": "kpack-express-notes",
+  "name": "pack-express-notes",
   "version": "1.0.0",
-  "description": "",
+  "description": "Poddle express notes sample application",
   "main": "app.ts",
   "scripts": {
     "dev": "nodemon src/app.ts",
